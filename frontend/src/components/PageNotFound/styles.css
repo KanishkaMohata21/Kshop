@@ -1,0 +1,21 @@
+.pagenotfound {
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.pagenotfound404 {
+    font-size: 5rem;
+    padding: 2px;
+}
+
+.pagenotfoundbtn {
+    margin: 20px;
+    padding: 8px;
+    font-size: 1.1rem;
+    color: white;
+    background-color: black;
+}
+
